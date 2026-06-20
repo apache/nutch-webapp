@@ -45,7 +45,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- allowed values: R7, 1.0, 1.5, 2.0 or none -->
         <wtp.version>none</wtp.version>
-        <spring.version>4.0.9.RELEASE</spring.version>
+        <spring.version>5.2.24.RELEASE</spring.version>
         <wicket-bootstrap.version>0.9.2</wicket-bootstrap.version>
         <jersey.version>1.19.4</jersey.version>
     </properties>
